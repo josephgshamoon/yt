@@ -104,7 +104,7 @@
   {
    "n": 3,
    "arc_role": "build",
-   "vo_line": "In eighteen eighty-five, Bérenger Saunière arrived here on a salary worth pennies, yet within years he was spending like a millionaire on a scale nobody could explain.",
+   "vo_line": "In eighteen eighty-five, Saunière arrived here on a salary worth pennies, yet within years he was spending like a millionaire on a scale nobody could explain.",
    "location": "road",
    "through_line_state": "latent",
    "shots": [
@@ -314,7 +314,7 @@
   {
    "n": 18,
    "arc_role": "build",
-   "vo_line": "Then the strange details begin: at the entrance he installs a demon statue, twisted and crouching, holding the holy water basin while visitors recoil. He keeps it anyway.",
+   "vo_line": "Then the strange details begin: at the entrance he installs a demon statue, twisted and crouching, holding the holy water while visitors recoil. He keeps it.",
    "location": "church-entrance",
    "through_line_state": "latent",
    "shots": [
@@ -552,7 +552,7 @@
   {
    "n": 35,
    "arc_role": "build",
-   "vo_line": "The mail arrived daily stuffed with money orders, Marie collected them by the basket, and when the investigators finally counted the postal records the evidence was damning.",
+   "vo_line": "The mail arrived daily stuffed with money orders, Marie collected them by the basket, and when the investigators counted the postal records the evidence was damning.",
    "location": "village-road",
    "through_line_state": "latent",
    "shots": [
@@ -762,7 +762,7 @@
   {
    "n": 50,
    "arc_role": "build",
-   "vo_line": "Corbu was left with a crumbling estate, no secret and mounting debts, so he did the only thing left to do with a mystery: he opened a restaurant.",
+   "vo_line": "Corbu was left with a crumbling estate, no secret and mounting debts, so he did the only thing left with a mystery: he opened a restaurant.",
    "location": "hotel-terrace",
    "through_line_state": "latent",
    "shots": [
@@ -874,7 +874,7 @@
   {
    "n": 58,
    "arc_role": "build",
-   "vo_line": "A priest spent a fortune that fraud alone struggles to explain, he dug at night and defaced a grave, and two people carried something silently to their deaths.",
+   "vo_line": "A priest spent a fortune that fraud struggles to explain, he dug at night and defaced a grave, and two people carried something silently to their deaths.",
    "location": "evidence-wall",
    "through_line_state": "latent",
    "shots": [
