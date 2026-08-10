@@ -90,7 +90,7 @@
   {
    "n": 2,
    "arc_role": "build",
-   "vo_line": "They tore up gardens, tunneled under the cemetery, took dynamite to a church floor. All chasing the fortune of one man — a priest who had no money at all.",
+   "vo_line": "They tore up gardens, tunneled under the cemetery, took dynamite to a church floor, all chasing the fortune of one man — a priest who had no money.",
    "location": "cemetery",
    "through_line_state": "latent",
    "shots": [
@@ -104,7 +104,7 @@
   {
    "n": 3,
    "arc_role": "build",
-   "vo_line": "In 1885, Bérenger Saunière arrived here with a salary worth pennies. Within years, he was spending like a millionaire — on a scale nobody could explain.",
+   "vo_line": "In eighteen eighty-five, Bérenger Saunière arrived here on a salary worth pennies, yet within years he was spending like a millionaire on a scale nobody could explain.",
    "location": "road",
    "through_line_state": "latent",
    "shots": [
@@ -132,7 +132,7 @@
   {
    "n": 5,
    "arc_role": "build",
-   "vo_line": "Terribilis est locus iste. This place is terrible. Then he died — refusing, even at the end, to tell the Church where the money came from.",
+   "vo_line": "Terribilis est locus iste — this place is terrible. Then he died, refusing even at the very end to tell the Church where all that money came from.",
    "location": "church-door",
    "through_line_state": "present",
    "shots": [
@@ -146,7 +146,7 @@
   {
    "n": 6,
    "arc_role": "build",
-   "vo_line": "One person knew the secret. She kept it for thirty-six years… and took it to her grave. This is the file on Rennes-le-Château.",
+   "vo_line": "Only one person knew the secret, and she kept it for thirty-six years before carrying it silently to her grave. This is the file on Rennes-le-Château.",
    "location": "villa-window",
    "through_line_state": "latent",
    "shots": [
@@ -160,7 +160,7 @@
   {
    "n": 7,
    "arc_role": "build",
-   "vo_line": "To understand how strange this story gets, you need to see the starting point. Rennes-le-Château, 1885. A dying hilltop village of two hundred people.",
+   "vo_line": "To understand how strange this story becomes, look at the starting point: Rennes-le-Château in eighteen eighty-five, a dying hilltop village of barely two hundred people.",
    "location": "village-square",
    "through_line_state": "latent",
    "shots": [
@@ -188,7 +188,7 @@
   {
    "n": 9,
    "arc_role": "build",
-   "vo_line": "Rain comes through the roof of Saint Mary Magdalene's. The altar is a stone slab on two ancient pillars. Some say the pillars are Visigothic — a thousand years old.",
+   "vo_line": "Rain pours through the roof of Saint Mary Magdalene's, where the altar is a stone slab resting on two ancient pillars some say are a thousand years old.",
    "location": "church-interior",
    "through_line_state": "latent",
    "shots": [
@@ -202,7 +202,7 @@
   {
    "n": 10,
    "arc_role": "build",
-   "vo_line": "This region remembers old things. Cathar castles burned by crusaders. Templar strongholds. Kingdoms that minted treasure and vanished. Legends cling to these hills like fog.",
+   "vo_line": "This region remembers old things — Cathar castles burned by crusaders, Templar strongholds, kingdoms that minted treasure and vanished, legends clinging to these hills like morning fog.",
    "location": "ridge",
    "through_line_state": "latent",
    "shots": [
@@ -216,7 +216,7 @@
   {
    "n": 11,
    "arc_role": "build",
-   "vo_line": "Saunière is ambitious, stubborn, political. He preaches against the government and gets his tiny salary suspended. For a while, he survives on gifts of food from parishioners.",
+   "vo_line": "Saunière is ambitious, stubborn and political; he preaches against the government, loses his tiny salary, and survives for a while on gifts of food from his parishioners.",
    "location": "presbytery",
    "through_line_state": "latent",
    "shots": [
@@ -230,7 +230,7 @@
   {
    "n": 12,
    "arc_role": "build",
-   "vo_line": "But he has a plan. He begins begging for renovation funds — from the village council, from a local countess, from church coffers. Small sums. Documented. Ordinary.",
+   "vo_line": "But he has a plan, and he begins begging renovation funds from the village council, a local countess and church coffers — small sums, documented and utterly ordinary.",
    "location": "study-desk",
    "through_line_state": "latent",
    "shots": [
@@ -244,7 +244,7 @@
   {
    "n": 13,
    "arc_role": "build",
-   "vo_line": "In 1887, the work begins. Workers lift the old altar stone off its two pillars. And here, the story splits — into what is documented, and what is legend.",
+   "vo_line": "In eighteen eighty-seven the work begins, and workers lift the old altar stone off its two pillars — and here the story splits into document and legend.",
    "location": "church-interior",
    "through_line_state": "latent",
    "shots": [
@@ -258,7 +258,7 @@
   {
    "n": 14,
    "arc_role": "build",
-   "vo_line": "The legend says: inside a hollow pillar, they found sealed wooden tubes. And in the tubes — parchments. Coded manuscripts. Genealogies of kings. A secret worth killing for.",
+   "vo_line": "The legend says a hollow pillar held sealed wooden tubes, and inside them lay parchments — coded manuscripts, royal genealogies, the kind of secret men kill to keep.",
    "location": "pillar-cavity",
    "through_line_state": "latent",
    "shots": [
@@ -272,7 +272,7 @@
   {
    "n": 15,
    "arc_role": "build",
-   "vo_line": "The record says something quieter: workmen reported old relics and coins beneath the floor — not unusual for a medieval church. No parchments appear in any document of the time.",
+   "vo_line": "The record says something quieter: workmen reported old relics and coins beneath the floor, nothing unusual for a medieval church, and no parchments appear in any document.",
    "location": "study-desk",
    "through_line_state": "latent",
    "shots": [
@@ -286,7 +286,7 @@
   {
    "n": 16,
    "arc_role": "build",
-   "vo_line": "But something undeniably changed. Because from the early 1890s, the penniless priest of a two-hundred-person village began spending money he could not possibly have.",
+   "vo_line": "But something undeniably changed, because from the early eighteen nineties the penniless priest of a two-hundred-person village began spending money he could not possibly have.",
    "location": "church-exterior",
    "through_line_state": "latent",
    "shots": [
@@ -300,7 +300,7 @@
   {
    "n": 17,
    "arc_role": "build",
-   "vo_line": "First, the church. Not patched — transformed. New altar, new floor, statues, painted reliefs, stained glass. Artisans brought in from outside the region. All paid in full.",
+   "vo_line": "First the church, not patched but transformed — new altar, new floor, statues, painted reliefs and stained glass, with artisans brought from far away and paid in full.",
    "location": "church-interior",
    "through_line_state": "latent",
    "shots": [
@@ -314,7 +314,7 @@
   {
    "n": 18,
    "arc_role": "build",
-   "vo_line": "Then the strange details begin. At the entrance, he installs a statue of a demon — twisted, crouching, holding the holy water. Visitors recoil. He keeps it.",
+   "vo_line": "Then the strange details begin: at the entrance he installs a statue of a demon, twisted and crouching, holding the holy water while visitors recoil. He keeps it.",
    "location": "church-entrance",
    "through_line_state": "latent",
    "shots": [
@@ -328,7 +328,7 @@
   {
    "n": 19,
    "arc_role": "build",
-   "vo_line": "Asmodeus. In legend, the demon who guarded Solomon's treasure. Of all the figures a priest could place at his church door… he chose the treasure's guardian.",
+   "vo_line": "Asmodeus — in legend the demon who guarded Solomon's treasure. Of every figure a priest could place at his church door, he chose the treasure's guardian.",
    "location": "church-entrance",
    "through_line_state": "latent",
    "shots": [
@@ -342,7 +342,7 @@
   {
    "n": 20,
    "arc_role": "build",
-   "vo_line": "Above the door, that inscription: Terribilis est locus iste. Tourists read it as a threat. It is actually scripture — Jacob's words: How awesome is this place.",
+   "vo_line": "Above the door sits that inscription, Terribilis est locus iste. Tourists read it as a threat, but it is scripture — Jacob's words, how awesome is this place.",
    "location": "church-door",
    "through_line_state": "present",
    "shots": [
@@ -356,7 +356,7 @@
   {
    "n": 21,
    "arc_role": "build",
-   "vo_line": "But Saunière wasn't done. On the cliff edge, he raised the Tour Magdala — a neo-Gothic stone tower — as his personal library. A watchtower with no enemy in sight.",
+   "vo_line": "Saunière wasn't done: on the cliff edge he raised the Tour Magdala, a neo-Gothic stone tower for his library — a watchtower with no enemy in sight.",
    "location": "tower",
    "through_line_state": "latent",
    "shots": [
@@ -370,7 +370,7 @@
   {
    "n": 22,
    "arc_role": "build",
-   "vo_line": "Beside it, the Villa Bethania: a handsome bourgeois house he built… and never lived in. He kept sleeping in the modest presbytery. The villa hosted his guests.",
+   "vo_line": "Beside it rose the Villa Bethania, a handsome bourgeois house he built and never lived in, sleeping instead in the presbytery while the villa hosted his guests.",
    "location": "promenade",
    "through_line_state": "latent",
    "shots": [
@@ -384,7 +384,7 @@
   {
    "n": 23,
    "arc_role": "build",
-   "vo_line": "And the guests came. Opera singers, aristocrats, clergy of rank — pilgrims of some hidden gravity, dining at the table of a village priest at the edge of nowhere.",
+   "vo_line": "And the guests came — opera singers, aristocrats, clergy of rank, pilgrims of some hidden gravity dining at the table of a village priest at the edge of nowhere.",
    "location": "dining-room",
    "through_line_state": "latent",
    "shots": [
@@ -398,7 +398,7 @@
   {
    "n": 24,
    "arc_role": "build",
-   "vo_line": "He collected rare china. Built a promenade and a greenhouse. Ordered exotic plants, monkeys — by some accounts — and cases of rum from Jamaica. On a priest's suspended salary.",
+   "vo_line": "He collected rare china, built a promenade and a greenhouse, ordered exotic plants, monkeys and cases of Jamaican rum — every bit of it on a suspended salary.",
    "location": "greenhouse",
    "through_line_state": "latent",
    "shots": [
@@ -412,7 +412,7 @@
   {
    "n": 25,
    "arc_role": "build",
-   "vo_line": "Modern estimates of his spending run to hundreds of thousands of gold francs — many millions today. The parish ledgers cannot account for a tenth of it.",
+   "vo_line": "Modern estimates put his spending at hundreds of thousands of gold francs, many millions today, and the parish ledgers cannot account for a tenth of it.",
    "location": "study-desk",
    "through_line_state": "latent",
    "shots": [
@@ -426,7 +426,7 @@
   {
    "n": 26,
    "arc_role": "build",
-   "vo_line": "The village noticed. The diocese noticed. Letters went up the chain: where does Father Saunière's money come from? He answered with silence — or with lies.",
+   "vo_line": "The village noticed, the diocese noticed, and letters went up the chain asking where Father Saunière's money came from. He answered with silence, or with lies.",
    "location": "study-desk",
    "through_line_state": "latent",
    "shots": [
@@ -440,7 +440,7 @@
   {
    "n": 27,
    "arc_role": "build",
-   "vo_line": "He claimed donations. Gifts from penitents who wished to stay anonymous. Pressed harder, he refused outright: revealing donors, he said, would violate the sanctity of confession.",
+   "vo_line": "He claimed donations from penitents who wished to stay anonymous, and when pressed harder he refused outright, saying that naming donors would violate the confessional.",
    "location": "stone-wall",
    "through_line_state": "latent",
    "shots": [
@@ -454,7 +454,7 @@
   {
    "n": 28,
    "arc_role": "build",
-   "vo_line": "Meanwhile he was seen at night — by his own parishioners — digging in the cemetery with his housekeeper. Moving stones. Erasing an inscription from one particular grave.",
+   "vo_line": "Meanwhile his own parishioners saw him at night, digging in the cemetery with his housekeeper, moving stones and erasing the inscription from one particular grave.",
    "location": "cemetery",
    "through_line_state": "latent",
    "shots": [
@@ -468,7 +468,7 @@
   {
    "n": 29,
    "arc_role": "build",
-   "vo_line": "The grave of Marie de Nègre d'Ables — a countess buried a century before. Her headstone, villagers said, carried odd lettering. Saunière scraped it blank. Why deface a tomb?",
+   "vo_line": "That grave belonged to a countess buried a century earlier, whose headstone carried odd lettering the villagers remembered — and Saunière scraped it blank. Why deface a tomb?",
    "location": "cemetery",
    "through_line_state": "latent",
    "shots": [
@@ -482,7 +482,7 @@
   {
    "n": 30,
    "arc_role": "turn",
-   "vo_line": "Every answer he gave created two new questions. And in 1909, the Church decided it had waited long enough. A new bishop opened a formal investigation.",
+   "vo_line": "Every answer he gave created two new questions, and in nineteen-oh-nine the Church decided it had waited long enough: a new bishop opened a formal investigation.",
    "location": "tribunal-hall",
    "through_line_state": "latent",
    "shots": [
@@ -496,7 +496,7 @@
   {
    "n": 31,
    "arc_role": "build",
-   "vo_line": "The bishop of Carcassonne ordered Saunière transferred to another parish. Saunière refused to go. He resigned rather than leave his hilltop. The Church's suspicion hardened.",
+   "vo_line": "The bishop of Carcassonne ordered him transferred to another parish; Saunière refused to go, resigning rather than leaving his hilltop, and the Church's suspicion hardened.",
    "location": "church-interior",
    "through_line_state": "latent",
    "shots": [
@@ -510,7 +510,7 @@
   {
    "n": 32,
    "arc_role": "build",
-   "vo_line": "An ecclesiastical trial followed. The charge tells you what the Church believed: trafficking in masses. Selling promises of prayer — on an industrial scale.",
+   "vo_line": "An ecclesiastical trial followed, and the charge tells you exactly what the Church believed — trafficking in masses, the selling of promised prayers on an industrial scale.",
    "location": "tribunal-hall",
    "through_line_state": "latent",
    "shots": [
@@ -538,7 +538,7 @@
   {
    "n": 34,
    "arc_role": "build",
-   "vo_line": "But Saunière advertised across France and beyond — in religious journals, by post — collecting fees for tens of thousands of masses he could never physically perform.",
+   "vo_line": "But Saunière advertised across France and beyond, in religious journals and by post, collecting fees for tens of thousands of masses he could never physically perform.",
    "location": "study-desk",
    "through_line_state": "latent",
    "shots": [
@@ -552,7 +552,7 @@
   {
    "n": 35,
    "arc_role": "build",
-   "vo_line": "The mail arrived daily, stuffed with money orders. His housekeeper Marie collected them at the post office by the basket. The investigation counted the postal records. It was damning.",
+   "vo_line": "The mail arrived daily stuffed with money orders, Marie collected them by the basket, and when investigators counted the postal records the evidence was damning.",
    "location": "village-road",
    "through_line_state": "latent",
    "shots": [
@@ -566,7 +566,7 @@
   {
    "n": 36,
    "arc_role": "build",
-   "vo_line": "Found guilty, he was suspended from the priesthood. The official story was now complete: no treasure, no parchments — just a talented fraudster in a cassock. Case closed.",
+   "vo_line": "Found guilty, he was suspended from the priesthood, and the official story was complete: no treasure, no parchments, just a talented fraudster in a cassock.",
    "location": "tribunal-hall",
    "through_line_state": "latent",
    "shots": [
@@ -594,7 +594,7 @@
   {
    "n": 38,
    "arc_role": "build",
-   "vo_line": "And fraud does not explain the behavior. The midnight digging. The scraped gravestone. The demon at the door. Fraudsters want quiet money — not monuments and riddles.",
+   "vo_line": "And fraud does not explain the behavior — the midnight digging, the scraped gravestone, the demon at the door. Fraudsters want quiet money, not monuments and riddles.",
    "location": "evidence-wall",
    "through_line_state": "latent",
    "shots": [
@@ -608,7 +608,7 @@
   {
    "n": 39,
    "arc_role": "build",
-   "vo_line": "Saunière appealed his conviction to Rome, hired lawyers he couldn't pay, and spent his final years broke — borrowing money, selling his china, a rich man now visibly poor.",
+   "vo_line": "Saunière appealed to Rome, hired lawyers he couldn't pay, and spent his final years broke — borrowing money and selling his china, a rich man now visibly poor.",
    "location": "pawnshop",
    "through_line_state": "latent",
    "shots": [
@@ -622,7 +622,7 @@
   {
    "n": 40,
    "arc_role": "build",
-   "vo_line": "Then, in January 1917, at sixty-four, he collapsed with a stroke. And with him on his deathbed, the story reached its strangest documented moment.",
+   "vo_line": "Then in January of nineteen seventeen, aged sixty-four, he collapsed with a stroke, and there on his deathbed the story reached its strangest documented moment.",
    "location": "bedroom",
    "through_line_state": "latent",
    "shots": [
@@ -650,7 +650,7 @@
   {
    "n": 42,
    "arc_role": "build",
-   "vo_line": "What does a dying village priest confess that unsettles another priest? The mass fraud was public record by then. Whatever he said… was something else.",
+   "vo_line": "What does a dying village priest confess that unsettles another priest? The mass fraud was already public record, so whatever he said was something else entirely.",
    "location": "church-interior",
    "through_line_state": "latent",
    "shots": [
@@ -664,7 +664,7 @@
   {
    "n": 43,
    "arc_role": "build",
-   "vo_line": "Saunière died days later. His will revealed one final surprise: he owned nothing. The tower, the villa, the land — everything was in Marie's name.",
+   "vo_line": "Saunière died days later, and his will revealed one final surprise: he owned nothing, because the tower, the villa and the land all belonged to Marie.",
    "location": "parlor",
    "through_line_state": "latent",
    "shots": [
@@ -678,7 +678,7 @@
   {
    "n": 44,
    "arc_role": "build",
-   "vo_line": "Marie Dénarnaud. His housekeeper since she was eighteen. Confidante, gatekeeper, keeper of the baskets of letters. The village called her, simply, the priest's shadow.",
+   "vo_line": "Marie Dénarnaud, his housekeeper since she was eighteen — confidante, gatekeeper, keeper of the baskets of letters, the woman the village simply called the priest's shadow.",
    "location": "tower-door",
    "through_line_state": "latent",
    "shots": [
@@ -692,7 +692,7 @@
   {
    "n": 45,
    "arc_role": "build",
-   "vo_line": "She lived on in the villa for thirty-six years, poor but strangely serene. To visitors who pressed her, she said something no one here ever forgot.",
+   "vo_line": "She lived on in the villa for thirty-six years, poor but strangely serene, and to visitors who pressed her she said something nobody here ever forgot.",
    "location": "parlor",
    "through_line_state": "latent",
    "shots": [
@@ -706,7 +706,7 @@
   {
    "n": 46,
    "arc_role": "build",
-   "vo_line": "With what the Father left, you could feed the whole village for a hundred years. And: one day, she would tell a secret that made its keeper rich.",
+   "vo_line": "With what the Father left, she said, you could feed the village for a hundred years — and one day she would tell a secret that made its keeper rich.",
    "location": "parlor",
    "through_line_state": "latent",
    "shots": [
@@ -720,7 +720,7 @@
   {
    "n": 47,
    "arc_role": "build",
-   "vo_line": "After the war, she sold the estate to a businessman, Noël Corbu — the price: he would care for her until she died. And she would tell him the secret.",
+   "vo_line": "After the war she sold the estate to the businessman Noël Corbu on one condition — he would care for her until she died, and then hear the secret.",
    "location": "parlor",
    "through_line_state": "latent",
    "shots": [
@@ -734,7 +734,7 @@
   {
    "n": 48,
    "arc_role": "build",
-   "vo_line": "In January 1953, Marie suffered a stroke. She lay dying for days — conscious, by some accounts, but unable to speak. Corbu sat by the bed, waiting.",
+   "vo_line": "In January of nineteen fifty-three Marie suffered a stroke and lay dying for days, conscious by some accounts but unable to speak, while Corbu waited beside the bed.",
    "location": "bedroom",
    "through_line_state": "latent",
    "shots": [
@@ -748,7 +748,7 @@
   {
    "n": 49,
    "arc_role": "build",
-   "vo_line": "She never got a word out. Whatever Saunière told her — if he told her — died in that room. The secret was now dead twice.",
+   "vo_line": "She never got a word out, and whatever Saunière told her — if he ever told her — died in that room. The secret was now dead twice.",
    "location": "bedroom",
    "through_line_state": "latent",
    "shots": [
@@ -762,7 +762,7 @@
   {
    "n": 50,
    "arc_role": "build",
-   "vo_line": "Corbu was left with a crumbling estate, no secret, and debts. So he did the only thing left to do with a mystery: he opened a restaurant on it.",
+   "vo_line": "Corbu was left with a crumbling estate, no secret and mounting debts, so he did the only thing left to do with a mystery: he opened a restaurant.",
    "location": "hotel-terrace",
    "through_line_state": "latent",
    "shots": [
@@ -776,7 +776,7 @@
   {
    "n": 51,
    "arc_role": "build",
-   "vo_line": "To draw customers, Corbu told the story to the newspapers — with upgrades. The priest hadn't run a scam; he'd found the treasure of a queen. Millions in gold.",
+   "vo_line": "To draw customers he told the newspapers the story with upgrades — the priest hadn't run a scam at all, he had found the treasure of a queen.",
    "location": "print-room",
    "through_line_state": "latent",
    "shots": [
@@ -790,7 +790,7 @@
   {
    "n": 52,
    "arc_role": "build",
-   "vo_line": "It worked beyond imagination. Treasure hunters descended with picks, metal detectors, dynamite. They tunneled under the church. They opened graves. The digging ban became law in 1965.",
+   "vo_line": "It worked beyond imagination: treasure hunters descended with picks and dynamite, tunneled under the church, opened graves, until the digging ban became law in nineteen sixty-five.",
    "location": "village-ground",
    "through_line_state": "latent",
    "shots": [
@@ -804,7 +804,7 @@
   {
    "n": 53,
    "arc_role": "build",
-   "vo_line": "Then the myth left the village. In the 1960s a Frenchman named Pierre Plantard grafted forged parchments onto the tale — planting fake documents in France's national library.",
+   "vo_line": "Then the myth left the village, when a Frenchman named Pierre Plantard grafted forged parchments onto the tale and planted fake documents in France's national library.",
    "location": "library-archive",
    "through_line_state": "latent",
    "shots": [
@@ -818,7 +818,7 @@
   {
    "n": 54,
    "arc_role": "build",
-   "vo_line": "His invented secret society, the Priory of Sion, claimed the priest had found proof of a hidden royal bloodline. It was a documented hoax. Plantard later admitted it under oath.",
+   "vo_line": "His invented secret society, the Priory of Sion, claimed the priest found proof of a hidden royal bloodline — a documented hoax Plantard later admitted under oath.",
    "location": "library-archive",
    "through_line_state": "latent",
    "shots": [
@@ -832,7 +832,7 @@
   {
    "n": 55,
    "arc_role": "build",
-   "vo_line": "But hoaxes outlive their confessions. The bloodline story became a bestselling book in 1982 — and that book became the skeleton of The Da Vinci Code.",
+   "vo_line": "But hoaxes outlive their confessions: the bloodline story became a bestselling book in nineteen eighty-two, and that book became the skeleton of The Da Vinci Code.",
    "location": "book-void",
    "through_line_state": "latent",
    "shots": [
@@ -846,7 +846,7 @@
   {
    "n": 56,
    "arc_role": "build",
-   "vo_line": "Millions of readers met a version of Rennes-le-Château scrubbed of its real name. The village of two hundred now receives a hundred thousand visitors a year.",
+   "vo_line": "Millions of readers met a version of Rennes-le-Château scrubbed of its real name, and the village of two hundred now receives a hundred thousand visitors a year.",
    "location": "village-road",
    "through_line_state": "latent",
    "shots": [
@@ -874,7 +874,7 @@
   {
    "n": 58,
    "arc_role": "build",
-   "vo_line": "A priest spent a fortune that fees and fraud struggle to fully explain. He dug at night and defaced a grave. And two people carried something silently to their deaths.",
+   "vo_line": "A priest spent a fortune that fees and fraud struggle to explain, he dug at night and defaced a grave, and two people carried something silently to their deaths.",
    "location": "evidence-wall",
    "through_line_state": "latent",
    "shots": [
@@ -902,7 +902,7 @@
   {
    "n": 60,
    "arc_role": "payoff",
-   "vo_line": "Terribilis est locus iste. How awesome is this place — or how terrible. In this file, both translations fit. Which do you believe? Subscribe — the next file is already open.",
+   "vo_line": "Terribilis est locus iste — how awesome is this place, or how terrible. In this file both translations fit. Which do you believe? The next file is already open.",
    "location": "church-door",
    "through_line_state": "present",
    "shots": [
