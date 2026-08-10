@@ -104,7 +104,7 @@
   {
    "n": 3,
    "arc_role": "build",
-   "vo_line": "In eighteen eighty-five, Saunière arrived here on a salary worth pennies, yet within years he was spending like a millionaire on a scale nobody could explain.",
+   "vo_line": "In eighteen eighty-five, Bérenger Saunière arrived in this village on a salary worth pennies, yet within years he was spending like a millionaire on a scale nobody could explain.",
    "location": "road",
    "through_line_state": "latent",
    "shots": [
@@ -706,7 +706,7 @@
   {
    "n": 46,
    "arc_role": "build",
-   "vo_line": "With what the Father left you could feed the whole village for a hundred years — and one day, she promised, a secret would make its keeper rich.",
+   "vo_line": "With what the Father left behind you could feed the whole village for a hundred years — and one day, she promised her visitors, a secret would make its keeper rich.",
    "location": "parlor",
    "through_line_state": "latent",
    "shots": [
@@ -720,7 +720,7 @@
   {
    "n": 47,
    "arc_role": "build",
-   "vo_line": "After the war she sold the estate to Noël Corbu on one condition: he would care for her until she died, and then hear the secret.",
+   "vo_line": "After the war she finally sold the estate to the businessman Noël Corbu on one condition: he would care for her until she died, and then hear the secret.",
    "location": "parlor",
    "through_line_state": "latent",
    "shots": [
@@ -762,7 +762,7 @@
   {
    "n": 50,
    "arc_role": "build",
-   "vo_line": "Corbu was left with a crumbling estate, no secret and mounting debts, so he did the only thing left with a mystery: he opened a restaurant.",
+   "vo_line": "Corbu was now left with a crumbling estate, no secret and mounting debts, so he did the only thing you can do with a mystery: he opened a restaurant.",
    "location": "hotel-terrace",
    "through_line_state": "latent",
    "shots": [
@@ -874,7 +874,7 @@
   {
    "n": 58,
    "arc_role": "build",
-   "vo_line": "A priest spent a fortune that fraud struggles to explain, he dug at night and defaced a grave, and two people carried something silently to their deaths.",
+   "vo_line": "A priest spent a fortune that fees and fraud struggle to explain, he dug in the dark and defaced a grave, and two people carried something silently to their deaths.",
    "location": "evidence-wall",
    "through_line_state": "latent",
    "shots": [
