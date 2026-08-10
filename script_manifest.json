@@ -104,7 +104,7 @@
   {
    "n": 3,
    "arc_role": "build",
-   "vo_line": "In eighteen eighty-five, Saunière arrived here on a salary worth pennies, yet within years he was spending like a millionaire on a scale nobody could explain.",
+   "vo_line": "In eighteen eighty-five, Bérenger Saunière arrived here on a salary worth pennies, yet within years he was spending like a millionaire on a scale nobody could explain.",
    "location": "road",
    "through_line_state": "latent",
    "shots": [
@@ -188,7 +188,7 @@
   {
    "n": 9,
    "arc_role": "build",
-   "vo_line": "Rain pours through the roof of Saint Mary Magdalene's, where the altar is a stone slab resting on pillars some say are a thousand years old.",
+   "vo_line": "Rain pours through the roof of Saint Mary Magdalene's church, where the altar is a stone slab resting on two pillars some say are a thousand years old.",
    "location": "church-interior",
    "through_line_state": "latent",
    "shots": [
@@ -314,7 +314,7 @@
   {
    "n": 18,
    "arc_role": "build",
-   "vo_line": "Then the strange details begin: at the entrance he installs a demon statue, twisted and crouching, holding the holy water while visitors recoil. He keeps it.",
+   "vo_line": "Then the strange details begin: at the entrance he installs a demon statue, twisted and crouching, holding the holy water basin while visitors recoil. He keeps it anyway.",
    "location": "church-entrance",
    "through_line_state": "latent",
    "shots": [
@@ -342,7 +342,7 @@
   {
    "n": 20,
    "arc_role": "build",
-   "vo_line": "Above the door sits that carved inscription, Terribilis est locus iste. Tourists read it as a threat, but it is scripture — Jacob's words, how awesome is this place.",
+   "vo_line": "Above the door sits the carved inscription, Terribilis est locus iste. Tourists read it as a threat, but it is scripture — how awesome is this place.",
    "location": "church-door",
    "through_line_state": "present",
    "shots": [
@@ -426,7 +426,7 @@
   {
    "n": 26,
    "arc_role": "build",
-   "vo_line": "The village noticed, the diocese noticed too, and letters went up the chain asking where Father Saunière's money came from. He answered with silence, or with lies.",
+   "vo_line": "The village noticed, the diocese noticed, and letters went up the chain asking where the priest's money came from. He answered with silence, or with lies.",
    "location": "study-desk",
    "through_line_state": "latent",
    "shots": [
@@ -454,7 +454,7 @@
   {
    "n": 28,
    "arc_role": "build",
-   "vo_line": "Meanwhile his own parishioners saw him late at night, digging in the cemetery with his housekeeper, moving stones and erasing the inscription from one particular grave.",
+   "vo_line": "Meanwhile his own parishioners saw him late at night, quietly digging in the cemetery with his housekeeper, moving stones and erasing the inscription from one particular grave.",
    "location": "cemetery",
    "through_line_state": "latent",
    "shots": [
@@ -552,7 +552,7 @@
   {
    "n": 35,
    "arc_role": "build",
-   "vo_line": "The mail arrived daily stuffed with money orders, Marie collected them by the basket, and when the investigators counted the postal records the evidence was damning.",
+   "vo_line": "The mail arrived daily stuffed with money orders, Marie collected them by the basket, and when the investigators finally counted the postal records the evidence was damning.",
    "location": "village-road",
    "through_line_state": "latent",
    "shots": [
@@ -608,7 +608,7 @@
   {
    "n": 39,
    "arc_role": "build",
-   "vo_line": "Saunière appealed his conviction to Rome, hired lawyers he could not pay, and spent his final years borrowing money and selling his china, a rich man visibly poor.",
+   "vo_line": "Saunière appealed his conviction to Rome, hired lawyers he could not pay, and spent his final years borrowing money and selling his china.",
    "location": "pawnshop",
    "through_line_state": "latent",
    "shots": [
@@ -706,7 +706,7 @@
   {
    "n": 46,
    "arc_role": "build",
-   "vo_line": "With what the Father left you could feed the village for a hundred years — and one day, she promised, a secret would make its keeper rich.",
+   "vo_line": "With what the Father left you could feed the whole village for a hundred years — and one day, she promised, a secret would make its keeper rich.",
    "location": "parlor",
    "through_line_state": "latent",
    "shots": [
@@ -720,7 +720,7 @@
   {
    "n": 47,
    "arc_role": "build",
-   "vo_line": "After the war she sold the estate to businessman Noël Corbu on one condition: he would care for her until she died, and then hear the secret.",
+   "vo_line": "After the war she sold the estate to Noël Corbu on one condition: he would care for her until she died, and then hear the secret.",
    "location": "parlor",
    "through_line_state": "latent",
    "shots": [
@@ -762,7 +762,7 @@
   {
    "n": 50,
    "arc_role": "build",
-   "vo_line": "Corbu was left with a crumbling estate, no secret and mounting debts, so he did the only thing left with a mystery: he opened a restaurant.",
+   "vo_line": "Corbu was left with a crumbling estate, no secret and mounting debts, so he did the only thing left to do with a mystery: he opened a restaurant.",
    "location": "hotel-terrace",
    "through_line_state": "latent",
    "shots": [
@@ -846,7 +846,7 @@
   {
    "n": 56,
    "arc_role": "build",
-   "vo_line": "Millions of readers met a version scrubbed of the village's real name, and the village of two hundred now receives a hundred thousand visitors a year.",
+   "vo_line": "Millions of readers met a version scrubbed of the village's real name, and the tiny village of two hundred now receives a hundred thousand visitors a year.",
    "location": "village-road",
    "through_line_state": "latent",
    "shots": [
@@ -874,7 +874,7 @@
   {
    "n": 58,
    "arc_role": "build",
-   "vo_line": "A priest spent a fortune that fraud struggles to explain, he dug at night and defaced a grave, and two people carried something silently to their deaths.",
+   "vo_line": "A priest spent a fortune that fraud alone struggles to explain, he dug at night and defaced a grave, and two people carried something silently to their deaths.",
    "location": "evidence-wall",
    "through_line_state": "latent",
    "shots": [
